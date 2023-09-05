@@ -64,7 +64,7 @@
   }
   
   a {
-    color: #7c2e9b; /* #314e64; */ /* #1772d0; */
+    color: #313164; /* #314e64; */ /* #1772d0; */
     text-decoration: none;
   }
   
@@ -100,8 +100,8 @@
     /*color: #313164;*/
     text-decoration: underline;
     text-decoration-style: solid;
-    -webkit-text-decoration-color: #7c2e9b;
-    text-decoration-color: #7c2e9b; /* #ac715b; */
+    -webkit-text-decoration-color: #313164;
+    text-decoration-color: #313164; /* #ac715b; */
   }
   
   papertitle {
