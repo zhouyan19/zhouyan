@@ -64,13 +64,13 @@
   }
   
   a {
-    color: #313164; /* #314e64; */ /* #1772d0; */
+    color: #4686cf; /* #314e64; */ /* #1772d0; */
     text-decoration: none;
   }
   
   a:focus,
   a:hover {
-    color: #313164; /* #f09228; */
+    color: #4686cf; /* #f09228; */
     text-decoration: none;
   }
   
@@ -97,11 +97,11 @@
   heading {
     font-family: 'Lato', Verdana, Helvetica, sans-serif;
     font-size: 25px;
-    /*color: #313164;*/
+    /*color: #4686cf;*/
     text-decoration: underline;
     text-decoration-style: solid;
-    -webkit-text-decoration-color: #313164;
-    text-decoration-color: #313164; /* #ac715b; */
+    -webkit-text-decoration-color: #4686cf;
+    text-decoration-color: #4686cf; /* #ac715b; */
   }
   
   papertitle {
@@ -142,7 +142,7 @@
   
   span.badge {
     font-size: 13px;
-    background-color: #313164;
+    background-color: #4686cf;
     color: #ffffff;
     font-weight: 600;
     padding-right: .4em;
